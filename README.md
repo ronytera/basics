@@ -1,1 +1,1 @@
-**This is a basic repo about learning github**
+**This is a basic repo about learning github and git**
